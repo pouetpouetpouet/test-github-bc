@@ -1,0 +1,4 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/appelGoogle" android:title="Recherche Google"></item>
+    <item android:id="@+id/quitter" android:title="Quitter"></item>
+</menu>

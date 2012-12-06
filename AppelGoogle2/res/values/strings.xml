@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">AppelGoogle</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Appel Google</string>
+    <string name="title_activity_appel_google">Appel Google</string>
+
+</resources>
